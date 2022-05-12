@@ -21,3 +21,30 @@ img{
     margin-left: auto;
     margin-right: auto;
 }
+
+.button1 {
+    background-color: #007a6a;
+    border: none;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    transition-duration: 1.2s;
+    cursor: pointer;
+  }
+
+.button1 {
+    border-radius: 8px;
+    background-color: white; 
+    color: black;
+    border: 2px solid #007a6a;
+}
+  
+  .button1:hover {
+    border-radius: 50px;
+    background-color: #007a6a;
+    color: white;
+  }
