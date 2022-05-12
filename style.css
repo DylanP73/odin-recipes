@@ -1,0 +1,23 @@
+/* styles.css */
+
+* {
+    font-family: helvetica, arial, sans-serif;  
+}
+
+body {
+    margin-left: 35px;
+    margin-right: 50px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    color: #007a6a;
+}
+
+img{
+    height: auto;
+    max-width: 800px;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
